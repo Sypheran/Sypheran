@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 ### I have Worked on.
-![Static Badge](https://img.shields.io/badge/Akurzai%20CE-purple)
+![Static Badge](https://img.shields.io/badge/Akurzai%20CE-purple%style=logo=#3776AB)
 
 <!--
 **Sypheran/Sypheran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
