@@ -1,22 +1,21 @@
-(![github-header-image (1)](https://github.com/Sypheran/Sypheran/assets/104648429/b0594d5d-2493-4f39-90d4-abbbef444bca)
+<h1 align="center">Hi 👋, I'm Syph.</h1>
+<h3 align="center">A passionate frontend Python Coder.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sypheran&label=Profile%20views&color=0e75b6&style=flat" alt="sypheran" /> </p>
 
+- 🔭 I’m currently working on [Akurzai](https://github.com/Sypheran/Akurzai-CE)
 
-### Hi there 👋
-### I have Worked on.
-![Static Badge](https://img.shields.io/badge/Akurzai%20CE-purple%style=logo=#3776AB)
+- 🌱 I’m currently learning **Python/Tkinter**
 
-<!--
-**Sypheran/Sypheran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **CustomTkinter GUI Issues, etcs.**
 
-Here are some ideas to get you started:
+- ⚡ Fun fact **i think im funny**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sypheran&show_icons=true&locale=en&layout=compact" alt="sypheran" /></p>
